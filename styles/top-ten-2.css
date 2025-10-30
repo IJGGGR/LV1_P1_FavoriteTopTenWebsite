@@ -5,8 +5,9 @@
   position: absolute;
 }
 .backgroundBox{
-        width: 450px; /* Sets the width of the box */
-    height: 150px; /* Sets the height of the box */
+    width: 4050px; 
+    height: 15000px; 
+    left: 0%;
     
     background-color: rgb(104, 104, 104); /* Sets the background color */
     padding: 20px; /* Adds space between the content and the border */
@@ -16,9 +17,10 @@
 .titleBoxST {
     width: 450px; /* Sets the width of the box */
     height: 150px; /* Sets the height of the box */
-    
+    position: absolute;
+    left: 30%;
     background-color: rgb(104, 104, 104); /* Sets the background color */
     padding: 20px; /* Adds space between the content and the border */
-    margin: 30px auto; /* Adds space outside the border and centers the box horizontally */
-    box-sizing: border-box; /* Ensures padding and border are included in the total width/height */
+     /* Adds space outside the border and centers the box horizontally */
+     /* Ensures padding and border are included in the total width/height */
 }
