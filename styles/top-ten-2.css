@@ -2,12 +2,12 @@
     background-image: url('/Pictures/pngtree-and-cool-colors-warm-color-image_16701534.jpg'); /* Path to your image */
   background-repeat: no-repeat;
   background-size:cover;
-  position: absolute;
 }
 .backgroundBox{
     width: 4050px; 
     height: 15000px; 
     left: 0%;
+    Top: -5%;
     
     background-color: rgb(104, 104, 104); /* Sets the background color */
     padding: 20px; /* Adds space between the content and the border */
@@ -23,4 +23,42 @@
     padding: 20px; /* Adds space between the content and the border */
      /* Adds space outside the border and centers the box horizontally */
      /* Ensures padding and border are included in the total width/height */
+}
+.STBox10{
+  width: 750px; /* Sets the width of the box */
+    height: 500px; /* Sets the height of the box */
+    left: 20%;
+    position: absolute;
+    top: 50%;
+    background-color: rgb(50, 50, 50); /* Sets the background color */
+    padding: 20px;
+    outline: 1px solid rgb(23, 172, 201);
+    
+}
+.Picturebox{
+  width: 250px; /* Sets the width of the box */
+    height: 150px; /* Sets the height of the box */
+    left: 1%;
+    top: 65%;
+    position: absolute;
+    background-color: rgb(0, 0, 0); /* Sets the background color */
+    padding: 20px;
+}
+.VideoBox{
+  width: 250px; /* Sets the width of the box */
+    height: 150px; /* Sets the height of the box */
+    left: 66%;
+    top: 65%;
+    position: absolute;
+    background-color: rgb(70, 70, 70); /* Sets the background color */
+    padding: 20px;
+}
+.StHeadheading{
+   width: 350px; /* Sets the width of the box */
+    height: 150px; /* Sets the height of the box */
+    left: 25%;
+    top: 1%;
+    position: absolute;
+    background-color: rgb(70, 70, 70); /* Sets the background color */
+    padding: 20px;
 }
