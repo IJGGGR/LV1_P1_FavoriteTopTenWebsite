@@ -33,3 +33,8 @@
 .whiteColor{
   color: white;
 }
+.Title{
+   background-image: url('/Pictures/360_F_1069048535_gPvVTQYydrvOneOiN4rGHdj0hpqHq2fS.jpg'); /* Path to your image */
+  background-repeat: no-repeat;
+  background-size:cover;
+}
