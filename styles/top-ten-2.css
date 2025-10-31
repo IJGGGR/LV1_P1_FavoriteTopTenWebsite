@@ -62,3 +62,53 @@
     background-color: rgb(70, 70, 70); /* Sets the background color */
     padding: 20px;
 }
+.ST10{
+  background-image: url('/Pictures/skibidi\ toilet\ 68\ \(full\ episode\)\ 10.jpg'); /* Path to your image */
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.STBox11{
+  width: 750px; /* Sets the width of the box */
+    height: 500px; /* Sets the height of the box */
+    left: 20%;
+    position: absolute;
+    top: 110%;
+    background-color: rgb(50, 50, 50); /* Sets the background color */
+    padding: 20px;
+    outline: 1px solid rgb(23, 172, 201);
+}
+.ST11{
+  background-image: url('/Pictures/skibidi\ toilet\ 69\ \(full\ episode\)\ 9.jpg'); /* Path to your image */
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.STBox12{
+  width: 750px; /* Sets the width of the box */
+    height: 500px; /* Sets the height of the box */
+    left: 20%;
+    position: absolute;
+    top: 170%;
+    background-color: rgb(50, 50, 50); /* Sets the background color */
+    padding: 20px;
+    outline: 1px solid rgb(23, 172, 201);
+}
+.ST12{
+  background-image: url('/Pictures/skibidi\ toilet\ 57\ \(full\ episode\)\ 8.jpg'); /* Path to your image */
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.STBox13{
+  width: 750px; /* Sets the width of the box */
+    height: 500px; /* Sets the height of the box */
+    left: 20%;
+    position: absolute;
+    top: 230%;
+    background-color: rgb(50, 50, 50); /* Sets the background color */
+    padding: 20px;
+    outline: 1px solid rgb(23, 172, 201);
+}
+.ST13{
+  background-image: url('/Pictures/skibidi\ toilet\ 70\ \(full\ episode\)\ 7.jpg'); /* Path to your image */
+  background-repeat: no-repeat;
+  background-size:cover;
+}
