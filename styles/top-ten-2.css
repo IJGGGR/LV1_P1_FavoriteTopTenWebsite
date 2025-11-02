@@ -1,5 +1,5 @@
 .background{
-    background-image: url('/Pictures/pngtree-and-cool-colors-warm-color-image_16701534.jpg'); /* Path to your image */
+    background-image: url('/images/bg.jpg'); /* Path to your image */
   background-repeat: no-repeat;
   background-size:cover;
 }
