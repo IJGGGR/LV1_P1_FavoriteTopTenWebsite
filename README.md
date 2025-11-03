@@ -2,4 +2,4 @@
 - Date Revised: 11/2/2025
 - Favorite Top Ten Website
 - A website about top favorites on fnaf and Skibidi toilet
-- Peer Review: ...
+- Peer Review: Arianna Huntley- Everything works well and looks nice!
